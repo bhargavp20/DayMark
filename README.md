@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Daymark — Final enhancements build
 
 Daymark is a local-first React/Vite productivity app for tasks, habits, analytics, calendar, reminders, backup/restore, and PWA/offline use.
@@ -21,3 +22,7 @@ Daymark is a local-first React/Vite productivity app for tasks, habits, analytic
 ## Notes
 - Voice recognition and browser notifications depend on browser/device permissions and support.
 - Data is stored locally in the browser; export a backup before clearing browser data.
+=======
+# DayMark
+A personal productivity app for tasks, habits, and analytics
+>>>>>>> 2e12a539f774efc5eb31838c614bf153dda643a5
